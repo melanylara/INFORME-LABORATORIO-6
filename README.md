@@ -65,3 +65,9 @@ Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
 
 **7. BIBLIOGRAFÍA**
+
+- FLOYD, THOMAS L. (2007). Principios de circuitos eléctricos. Octava edición PEARSON EDUCACIÓN. 
+
+- Person. A. (2019). Teorema de transferencia de potencia máxima. Recuperado de:  https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/   
+
+- Electrónica Lugo. (2020). Teorema máximo de transferencia de energía. Recuperado de: HTTPS://ELECTRONICALUGO.COM/TEOREMA-MAXIMO-DE-TRANSFERENCIA-DE-ENERGIA/  
