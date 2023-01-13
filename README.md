@@ -10,9 +10,15 @@ INTEGRANTES:
 **1. OBEJTIVOS**
 
   **Objetivo General:**
+  
+  * Determinar experimental y teóricamente el teorema mencionado, mediante el análisis de un circuito DC para hallar la Máxima Transferencia de Potencia de un circuito eléctrico
 
   **Objetivos Específicos:**
-  
+* Comprobar experimentalmente el teorema en mención y verificar las relaciones de potencia máxima y eficiencia. 
+
+* Conocer los fundamentos básicos de este teorema 
+
+* Analizar el comportamiento del circuito elaborado 
 
 
 **2. MARCO TEÓRICO**
